@@ -32,7 +32,7 @@
             android:layout_marginTop="96dp"
             android:text="Music Playlist App"
             android:textColor="#F4F1F1"
-            android:textSize="24sp"
+            android:textSize="34sp"
             android:textStyle="bold|italic"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintHorizontal_bias="0.497"
